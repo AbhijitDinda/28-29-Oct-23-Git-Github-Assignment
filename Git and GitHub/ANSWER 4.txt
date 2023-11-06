@@ -1,0 +1,16 @@
+1.Code Hosting and Version Control:-> Developers can upload their code repositories to GitHub, allowing for version control, tracking changes, and maintaining the project history.
+
+2.Collaboration Tools:-> GitHub offers features like pull requests, which allow team members to propose changes, discuss modifications, and merge these changes into the main branch.
+
+3.Issue Tracking:-> It provides tools for issue tracking, where developers can report bugs, suggest new features, or discuss improvements.
+
+4.Documentation and Wiki:-> GitHub enables users to create wikis for their projects and documentations, allowing for easy knowledge sharing and reference.
+
+5.Community and Social Coding:-> GitHub fosters a community of developers who can explore and contribute to open-source projects. It allows users to follow projects, developers, and stay updated on activities and changes.
+
+<-------------------------------Alternatives to GitHub---------------------------->
+1.GitLab.
+2.Bitbucket.
+3.SourceForge.
+4.AWS CodeCommit.
+5.Azure DevOps (formerly known as Visual Studio Team Services).

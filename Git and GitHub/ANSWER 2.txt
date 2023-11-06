@@ -1,0 +1,12 @@
+Working Directory:->
+The working directory is where you create, modify, and organize your files. It's essentially your local file system.
+Any file within this directory can exist in one of three states: untracked, modified, or staged. Untracked files are new files that Git is not currently managing. Modified files are changes made to existing files that Git is tracking. Staged files are modified files that are marked to be included in the next commit.
+
+Staging Area (Index):->
+The staging area is an intermediate area where you prepare and organize changes before committing them to the repository. It's like a "holding area" where you assemble the changes you want to include in the next commit.
+Files are staged using the git add command. This command moves changes from the working directory to the staging area.
+Staging allows you to review and separate changes logically before committing them. It gives you more control over what goes into each commit.
+
+Repository:->
+The repository is where Git stores the history of committed changes. It contains all the committed snapshots and metadata.
+The repository in Git is further divided into two main parts: the local repository and the remote repository. The local repository resides on your computer and contains all the commit history. The remote repository, like on GitHub or GitLab, is a shared repository where multiple developers can collaborate by pushing and pulling changes.
